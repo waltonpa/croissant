@@ -1,0 +1,23 @@
+body {
+  background: #f8e8a6;
+  text-align: center;
+}
+
+h1,
+p,
+a {
+  padding: 10px;
+  font: 12;
+}
+
+a {
+  color: #008000;
+}
+
+.email {
+  padding: 0;
+}
+.img {
+  width: 400;
+  height: 100;
+}
